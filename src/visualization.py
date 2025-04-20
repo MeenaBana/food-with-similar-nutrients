@@ -1,6 +1,6 @@
 """
-Robust visualization module for food clustering results.
-This version includes additional error handling and data validation.
+Visualization module for food clustering results.
+This module provides functions to visualize the clustering results using different plots.
 """
 
 import os
